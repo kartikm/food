@@ -17,5 +17,26 @@
                 }
             }
         ]
+    },
+
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "Item": "Kali Pav Bhaji",
+                    "Cost": 60,
+                    "Name": "Maruti"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        72.8395915031433,
+                        19.10235058533833
+                    ]
+                }
+            }
+        ]
     }
 ]
