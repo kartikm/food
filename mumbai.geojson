@@ -1,0 +1,21 @@
+[
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "Item": "Pani Puri",
+                    "Cost": 30
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        72.83391058444975,
+                        19.0716851889055
+                    ]
+                }
+            }
+        ]
+    }
+]
